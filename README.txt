@@ -1,4 +1,4 @@
-This is a presentation “How to Call C++ libraries from C++” I first gave at Cppcon in 2014.  The slides alone probably aren’t very readable, but the conference plans to make video available.
+This is a presentation “How to Call C libraries from C++” I first gave at Cppcon in 2014.  The slides alone probably aren’t very readable, but the conference plans to make video available.
 
 I presented a much earlier version of this material at MacHack in 2002.  There is a paper “The Nitrogen Manifesto” available for that work at nitric.sourceforge.net.
 
